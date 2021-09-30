@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="http://anokabb.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://anokabb.github.io/portfolio</link>
+	<atom:link href="/https://anokabb.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://anokabb.github.io/portfolio</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 20 Oct 2019 01:58:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://anokabb.github.io/portfolio/2019/10/20/hello-world/#comment-3</link>
+		<link>/https://anokabb.github.io/portfolio/2019/10/20/hello-world/#comment-3</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 01:58:52 +0000</pubDate>
